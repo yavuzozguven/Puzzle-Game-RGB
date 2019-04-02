@@ -1,0 +1,10 @@
+C:\Users\Yavuz\source\repos\YazLab21\YazLab21\bin\Debug\YazLab21.exe.config
+C:\Users\Yavuz\source\repos\YazLab21\YazLab21\bin\Debug\YazLab21.exe
+C:\Users\Yavuz\source\repos\YazLab21\YazLab21\bin\Debug\YazLab21.pdb
+C:\Users\Yavuz\source\repos\YazLab21\YazLab21\obj\Debug\YazLab21.csprojAssemblyReference.cache
+C:\Users\Yavuz\source\repos\YazLab21\YazLab21\obj\Debug\YazLab21.Form1.resources
+C:\Users\Yavuz\source\repos\YazLab21\YazLab21\obj\Debug\YazLab21.Properties.Resources.resources
+C:\Users\Yavuz\source\repos\YazLab21\YazLab21\obj\Debug\YazLab21.csproj.GenerateResource.cache
+C:\Users\Yavuz\source\repos\YazLab21\YazLab21\obj\Debug\YazLab21.csproj.CoreCompileInputs.cache
+C:\Users\Yavuz\source\repos\YazLab21\YazLab21\obj\Debug\YazLab21.exe
+C:\Users\Yavuz\source\repos\YazLab21\YazLab21\obj\Debug\YazLab21.pdb
